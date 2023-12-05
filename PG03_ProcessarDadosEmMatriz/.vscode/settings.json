@@ -1,0 +1,7 @@
+{
+    "editor.insertSpaces": true,
+    "editor.autoIndent": "advanced",
+    "editor.autoClosingOvertype": "always",
+    "editor.bracketPairColorization.independentColorPoolPerBracketType": true,
+    "editor.guides.highlightActiveIndentation": "always"
+}

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DC04_InstrucaoSwitch", "DC04_InstrucaoSwitch.csproj", "{0F3F7AD2-615B-4508-95FA-CFE053763BC0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0F3F7AD2-615B-4508-95FA-CFE053763BC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F3F7AD2-615B-4508-95FA-CFE053763BC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F3F7AD2-615B-4508-95FA-CFE053763BC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F3F7AD2-615B-4508-95FA-CFE053763BC0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {09030BB3-A298-4FEA-BCD0-EB20087A1C29}
+	EndGlobalSection
+EndGlobal

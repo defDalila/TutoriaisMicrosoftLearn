@@ -1,0 +1,7 @@
+{
+    "markdown.preview.scrollPreviewWithEditor": false,
+    "markdown.preview.scrollEditorWithPreview": false,
+    "workbench.editor.enablePreview": false,
+    "workbench.editor.restoreViewState": false,
+    "diffEditor.useInlineViewWhenSpaceIsLimited": false
+}
