@@ -1,0 +1,5 @@
+{
+    "tabnine.snoozeDuration": 3,
+    "tabnine.debounceMilliseconds": 800,
+    "tabnine.receiveBetaChannelUpdates": true
+}
